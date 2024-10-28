@@ -1,4 +1,4 @@
-# SimpleTools
+# ASimpleTool(for generating images in batches)
 
 A simple auxiliary tool for generating images in batches.
 First use file convert_PROMPTwords_to_TXT.py to save the prompt words in a txt file. 
